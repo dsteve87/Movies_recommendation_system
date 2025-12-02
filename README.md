@@ -15,7 +15,7 @@ Ce projet est un système de recommandation de films interactif développé en P
 
 - Recommandation des 5 films les plus similaires basés sur une matrice de similarité.
 
-- Affichage des affiches des films en temps réel via l’API TheMovieDB (TMDB).
+- Affichage des films en temps réel via l’API TheMovieDB (TMDB).
 
 - Interface graphique stylée avec fond personnalisé et boutons interactifs.
 ---
@@ -23,11 +23,11 @@ Ce projet est un système de recommandation de films interactif développé en P
 ## Technologies utilisées
 
 
-Pandas pour le traitement des données
+- Pandas pour le traitement des données
 
-Streamlit pour la création de l’interface web
+- Streamlit pour la création de l’interface web
 
-Requests pour interagir avec l’API TMDB
+- Requests pour interagir avec l’API TMDB
 
 ---
 
